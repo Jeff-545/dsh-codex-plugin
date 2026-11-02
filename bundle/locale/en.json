@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "ChatGPT Plan",
+    "description": "Sign in with ChatGPT and run model requests on your ChatGPT Plus/Pro plan, with a settings page to connect, disconnect, and manage usage."
+  },
+  "section": {
+    "title": "ChatGPT plan",
+    "lead": "Use your ChatGPT plan for model requests. Sign-in uses OpenAI's official Sign in with ChatGPT flow."
+  }
+}

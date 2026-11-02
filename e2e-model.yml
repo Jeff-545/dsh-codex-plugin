@@ -1,0 +1,5 @@
+- id: agent-default-model
+  config:
+    provider: chatgpt-plan
+    model: gpt-6.1-sol
+    reasoningEffort: medium

@@ -1,0 +1,40 @@
+{
+  "name": "dsh-chatgpt-plan",
+  "version": "0.1.1",
+  "private": true,
+  "type": "module",
+  "description": "ChatGPT plan (Sign in with ChatGPT) model provider for DeepSeek Harness",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "client.js",
+    "cordis.patch.yml",
+    "icon.svg",
+    "index.js",
+    "lib",
+    "locale/*.json"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-settings"
+      ],
+      "immediately": true
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.1-rc.5"
+  }
+}

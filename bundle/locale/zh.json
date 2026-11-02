@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "ChatGPT 套餐",
+    "description": "通过官方 Sign in with ChatGPT 登录，使用 ChatGPT Plus/Pro 套餐额度运行模型请求，并提供连接、断开与管理用量的设置页面。"
+  },
+  "section": {
+    "title": "ChatGPT 套餐",
+    "lead": "使用你的 ChatGPT 套餐运行模型请求；登录使用 OpenAI 官方的 Sign in with ChatGPT 流程。"
+  }
+}

@@ -1,0 +1,13 @@
+chatgpt_plan_auth/__init__.py,sha256=278FSbc100_z38j9PuIMrspaYHGbnge_nrmXhlNdM-8,2123
+chatgpt_plan_auth/_compat.py,sha256=6sG5ue6VvW7AMio2DKWm9Y90DkG3-YMsCI9fFf-1gls,3242
+chatgpt_plan_auth/auth.py,sha256=MvXJCwqYRekCLB2K4EU72Tfuvw_e9LWpn3l2RS2Pd6c,19557
+chatgpt_plan_auth/catalog.py,sha256=4JPcVrDYUoWp5LUlCmgjakEd5OFbUsAySNKZb5oQ2_w,2976
+chatgpt_plan_auth/client.py,sha256=MGYa8FeIGNA599uLR62fP8lhEigdlbRqc5Smvw4GTHU,2667
+chatgpt_plan_auth/const.py,sha256=BP9Ejl6Fef3tuSv8MwBr8Qtni-4dNV_JMOp7L5X4vrI,5957
+chatgpt_plan_auth/errors.py,sha256=5IXUq5XoBl_TCT8moAYWuPfZrmAVjy1SUkt1y1UXptY,551
+chatgpt_plan_auth/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chatgpt_plan_auth/requests.py,sha256=UXDEY9IW34nyUF7BvWIs8MzmIe4CNlrTl_PlJCbgXYA,3415
+chatgpt_plan_auth-1.0.2.dist-info/METADATA,sha256=nGXVpph0xu7RRw6zHFSvSvlSkoCDWoY7DzT5weoBzRk,5915
+chatgpt_plan_auth-1.0.2.dist-info/WHEEL,sha256=W3fkpkm7-wf9vBI5Z-7s0eWkeM-spu78I8Neb98DeEg,87
+chatgpt_plan_auth-1.0.2.dist-info/licenses/LICENSE,sha256=gTWpUtJRJGTvKKxNlJJ0rKdlUe11k2FkmT93JGljSFI,1070
+chatgpt_plan_auth-1.0.2.dist-info/RECORD,,

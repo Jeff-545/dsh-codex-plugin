@@ -1,0 +1,10 @@
+# The ChatGPT plan route over the base composition.
+#
+# One Host row owns the whole feature: the `chatgpt-plan` model route, the
+# Sign in with ChatGPT authorization flow, the `chatgpt-plan-*` commands, and
+# the same-origin routes that back its Settings page. Its manifest also carries
+# a `dsh.client` half, which the Web client module roster loads as the
+# "ChatGPT" settings section.
+- insert:
+    - id: chatgpt-plan
+      name: dsh-chatgpt-plan
